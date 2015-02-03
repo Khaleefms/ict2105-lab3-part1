@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Khaleef/AndroidStudioProjects/Lab3/PermissionsLab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">PermissionsApp</string>
+    <string name="converter_button_clear">Clear</string>
+    <string name="converter_button_convert">Convert</string>
+    <string name="converter_hint">Enter temperature here</string>
+    <string name="converter_name">Temperature Converter</string>
+    <string name="converter_radio_button_celsius">to Celsius</string>
+    <string name="converter_radio_button_fahrenheit">to Fahrenheit</string>
+    <string name="cust_button1">Start Dangerous Activity</string>
+    <string name="cust_message">This button will load a Dangerous Level activity</string>
+    <string name="main_button3">Bookmarks Activity</string>
+    <string name="main_button4">Converter Activity</string>
+    <string name="perms_button1">Get Bookmarks</string>
+    <string name="perms_button2">Go To DangerousActivity</string>
+    <string name="place_holder">Bookmarks Go Here</string>
+    <string name="title_activity_customization">Customization</string>
+    <string name="title_converter">Converter</string>
+    <string name="title_main">PermissionsApp</string>
+    <string name="title_permissions">Permissions</string>
+    <!-- From: file:/C:/Users/Khaleef/AndroidStudioProjects/Lab3/PermissionsLab/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
